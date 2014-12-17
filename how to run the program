@@ -1,0 +1,24 @@
+how to run the program
+
+step1: copy file on to the desktop
+
+step2: "IN ECLIPSE" click on file at the left 	top.
+
+step3: click on "IMPORT"
+
+step4: click "general" and underthat select 
+	"existing projects into workspace"
+
+step5: select root directory and click on 	BROWSE and direct to desktop and select 	the file "KfoldandKNN" and click 	"FINISH".
+
+step6: In Eclipse PACKAGE EXPLORER select on
+		KfoldandKNN and under src select default package.
+
+step7: double click on java class kfold.
+
+step8: Run the "kfold" java class. 
+
+step9: output is printed on console.
+
+
+
