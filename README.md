@@ -6,11 +6,17 @@ Machine learning algorithm
 Input
 The input consists of two files. The first file contains cross-validation information, and the second
 file contains the data.
+
 The first file
+
 Here is an example of the first file:
+
 2 9 3
+
 0 1 2 3 4 5 6 7 8
+
 8 1 2 3 4 5 6 7 0
+
 4 0 8 2 6 3 7 1 5
 The numbers in each row are separated by a single space. The first number is the k of k-fold, to be
 used in the k-fold cross validation scheme. The second number is m, the number of examples. The
@@ -19,6 +25,7 @@ the file is: 2-fold cross-validation on 9 examples, with 3 random permutations. 
 are the t “random” permutations.
 The second file
 Here is an example of the second file:
+
 4 5
 . + . . −
 . + . − −
